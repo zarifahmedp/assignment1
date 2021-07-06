@@ -62,3 +62,15 @@ background-image: url(images/shapes/Frame\ 58.jpg);
 background-repeat: no-repeat;
 
 }
+.text-center {
+    padding-right: 200px;
+    margin-left: 100px;
+}
+#footer-align {
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+#mama {
+color: orange;
+}
