@@ -41,10 +41,24 @@ padding-right: 200px;
 #text-padding {
     padding-bottom: 10px;
 }
-.shadow {
-box-shadow: orange 2px 2px 5px 5px;
-}
+
 #back-img {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+}
+P {padding-bottom:digit}
+#center {
+    text-align: center;
+}
+.less-width {
+    width: 33%;
+}
+.bottom-img-flex {
+display: flex;
+padding-left: 270px;
+}
+#back-img-2 {
+background-image: url(images/shapes/Frame\ 58.jpg);
+background-repeat: no-repeat;
+
 }
